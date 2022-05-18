@@ -79,6 +79,8 @@ float: right;
   }
 
   .welcomePage{
+    background-image: url("./images/wallpaper.jpg");
+
     height: 89%;
   }
 
