@@ -2,7 +2,7 @@
 Ehsan Kittany : 206416380    Khalil Mhajne: 208220756
 
 ## URL
-add here ...
+https://web-development-environments-2022.github.io/assignment2-206416380_208220756/
 
 ### Functionality Added
 - When the pacman eat a  " clock " it will give the user 20 extra seconds.
